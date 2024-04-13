@@ -422,9 +422,10 @@ section {
 }
 .ticket-note1 {
     display: block;
+    margin-top: 5%;
+    margin-left: 2%;
     width: 45%;
     float: left;
-    align-content: end;
     background-color: rgba(63, 91, 115, 0.852);
     color: white;
     padding: 15px;
