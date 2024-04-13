@@ -413,6 +413,8 @@ section {
     height: 100dvh;
 }
 .ticket-note {
+    width: 50%;
+    float: left;
     align-content: end;
     background-color: rgba(63, 91, 115, 0.852);
     color: white;
@@ -420,6 +422,8 @@ section {
 }
 .ticket-note1 {
     width: 100%;
+    position: sticky;
+    bottom: 0;
     align-content: end;
     background-color: rgba(63, 91, 115, 0.852);
     color: white;
