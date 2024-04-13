@@ -421,6 +421,7 @@ section {
     padding: 15px;
 }
 .ticket-note1 {
+    display: block;
     width: 45%;
     float: left;
     align-content: end;
