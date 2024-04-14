@@ -9,12 +9,13 @@
     float: right;
     width: 45%;
     margin-right: 2%;
+    height: 50%;
 }
 
 .mySlides {
     object-fit: cover;
-    width: 500px;
-    height: 300px;
+    width: 100%;
+    height: 100%;
     border: solid #fff;
 }
 .box {
